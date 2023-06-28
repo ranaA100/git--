@@ -1,2 +1,2 @@
-mylogs1.log
-logs/mylogs2.log
+/mylogs.log
+*.log
